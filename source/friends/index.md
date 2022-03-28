@@ -6,10 +6,10 @@ copyright: false
 ---
 
 # Info
-- 站名： しょうさんぎんのゴミ箱
-- 站长： SyouSanGin
-- 地址： https://syousangin.github.io
-- 简介： The record of SyouSanGin's ~~boring~~ life
+- What is this?     ： しょうさんぎんのゴミ箱
+- Who am I?         ： SyouSanGin
+- How to access?    ： https://syousangin.github.io
+- What is it about? ： The record of SyouSanGin's ~~boring~~ life
 # Friends
 {% linksfile friends/_data.yml %}
 

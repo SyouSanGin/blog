@@ -6,10 +6,10 @@ copyright: false
 ---
 
 # Info
-- What is this?     ： しょうさんぎんのゴミ箱
-- Who am I?         ： SyouSanGin
-- How to access?    ： https://syousangin.github.io
-- What is it about? ： The record of SyouSanGin's ~~boring~~ life
+- 这是什么：しょうさんぎんのゴミ箱
+- 主人是谁：SyouSanGin
+- 怎么访问：https://syousangin.github.io
+- 写了些啥：The record of SyouSanGin's ~~boring~~ life
 # Friends
 {% linksfile friends/_data.yml %}
 

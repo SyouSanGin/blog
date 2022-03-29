@@ -5,8 +5,10 @@ tags:
     - Cpp
     - Algorithm
     - STL
+    - Programing
 categories:
     - [Algorithm learning]
+math: true
 ---
 
 # The prototype of the two functions

@@ -4,8 +4,10 @@ date: 2022-3-28
 tags:
     - Cpp
     - Algorithm
+    - Programing
 categories:
     - [Algorithm learning]
+math: true
 ---
 # Recursive Solution
 

@@ -4,8 +4,10 @@ date: 2022-3-28
 tags:
     - Cpp
     - Algorithm
+    - Programing
 categories:
     - [Algorithm learning]
+math: true
 ---
 # The maxima of the periodic sum in a sequence (one dimension)
 ## An importand concept: Valid Sequense

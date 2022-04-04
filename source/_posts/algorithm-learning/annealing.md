@@ -34,3 +34,7 @@ math: true
 - $T_k$ 为结束温度
 - $\Delta$ 为温度更新权重，$T_i = \Delta \cdot T_{i-1}$。如果$\Delta$大，退火快，容易局部最优；$\Delta$小，迭代次数多，耗时长。实际应用中采用退火温度表。初期采用较大，后期减小
 
+```mermaid
+graph LR
+id[2] --> id[3]
+```

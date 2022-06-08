@@ -30,6 +30,6 @@
     "markdown-it": "^10.0.0",
     "markdown-it-mermaid": "^0.2.5",
     "puppeteer": "^13.5.1",
-    "yarn": "^1.22.18"
+    "yarn": "^1.22.19"
   }
 }
